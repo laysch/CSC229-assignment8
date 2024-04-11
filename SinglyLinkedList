@@ -89,7 +89,7 @@ public class Main {
         primesList.display();
         System.out.print("Prime Numbers with digit 3: ");
         primesWithDigitThreeList.display();
-        System.out.println("Sum of prime numbers with digit 3: " + primesWithDigitThreeList.total());
+        System.out.println("The sum of prime numbers with digit 3: " + primesWithDigitThreeList.total());
         return primesWithDigitThreeList;
     }
 
